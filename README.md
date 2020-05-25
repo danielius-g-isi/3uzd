@@ -36,4 +36,4 @@ vector class: 339290 ms (339.29 sec)
 
 elements: 10000000
 std::vector: 2057 ms (2.057 sec)
-vector class: 30391684 (8 h, 26 min, 31 sec)
+vector class: 30391684 ms (8 h, 26 min, 31 sec)
